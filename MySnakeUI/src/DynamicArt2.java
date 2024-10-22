@@ -10,7 +10,7 @@ public class DynamicArt2 extends JPanel implements ActionListener {
         int x = 50;
         int y = 12;
 
-
+//random comment, but still happy that i did it this far, i am coming for commits after commits
 
         public DynamicArt2() {
             setBackground(Color.green);
